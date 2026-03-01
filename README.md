@@ -16,13 +16,9 @@
 
 - 👯 I’m looking to collaborate on **with a software**
 
-- 🤝 I’m looking for help with **in any software project**
-
 - 💬 Ask me about **React & Node Js**
 
 - 📫 How to reach me **shubhamreckon@gmail.com**
-
-- ⚡ Fun fact **I think i am a Hard Worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
