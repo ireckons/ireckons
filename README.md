@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ireckons&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="170" src="https://profile-stats-alpha.vercel.app/api/stats?username=ireckons" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=ireckons&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireckons&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
