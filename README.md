@@ -18,7 +18,7 @@
 
 <a href="https://github.com/ireckons"><img src="https://komarev.com/ghpvc/?username=ireckons&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/shubhamreckon01"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://in.linkedin.com/in/shubhamreckon01"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/ireckons"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:shubhamreckon@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
