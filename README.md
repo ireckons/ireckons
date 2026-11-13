@@ -93,11 +93,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ireckons/SSD-Wear-Leveling-Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ireckons&repo=SSD-Wear-Leveling-Simulator&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="SSD Wear Leveling Simulator" /></a>
-<a href="https://github.com/ireckons/Meal-Planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ireckons&repo=Meal-Planner&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Meal Planner" /></a>
 
-<a href="https://github.com/ireckons/Stock-Console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ireckons&repo=Stock-Console&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Stock Console" /></a>
-<a href="https://github.com/ireckons/NutriFridge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ireckons&repo=NutriFridge&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="NutriFridge" /></a>
 
 </div>
 
