@@ -74,12 +74,16 @@
 
 <div align="center">
 
-<img height="170" src="https://profile-stats-alpha.vercel.app/api/stats?username=ireckons" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=ireckons&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=ireckons&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireckons&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ireckons&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ireckons&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=ireckons&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
